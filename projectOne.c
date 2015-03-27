@@ -1,10 +1,3 @@
-/*
- * Class: CS 446
- * Assignment: Homework One
- * File: projectOne.c
- * Date: 9/17/14
- */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h>
